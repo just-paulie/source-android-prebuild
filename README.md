@@ -1,2 +1,5 @@
 # source-android-prebuild
-This repository contains prebuilt Source for Android (nillerusr) .apk files. Those files were build with Google´s SDK command line tools. This repository is protected with GNU General Public License v3.0.
+
+> [!CAUTION]
+> Files contained in this repository are just barebone engine files. The .apk in releases aren't equiped with game files itself. I does not support piracy in any way, so you need to own official (Steam) files/games compatible with this engine. For further information visit this webpage: https://developer.valvesoftware.com/wiki/Source_on_Android. 
+---------------------------------------------
