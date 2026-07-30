@@ -9,3 +9,13 @@ About
 ----------------------------------------------
 >[!WARNING]
 > The engine itself works but compatibility with games isn't tested. I'm going to test it all this weekend. For these few days, use it at your 'own risk'. The app (engine) is stable although it's labeled as 'debug'. 
+----------------------------------------------
+🙏 Thank you very much!!
+--
+¹nillerusr for creating Source Engine port for Android
+²Valve for making guide - 'Source for Android' (https://developer.valvesoftware.com/wiki/Source_on_Android)
+³Claude's Sonnet 5 for additional guide and setup adjusting and fixing my mistakes. :) 
+⁴FWGS for creating Xash3D FWGS engine and inspiring me for making this project. :)
+
+THANK YOU VERY MUCH Y'ALL! ツ
+
