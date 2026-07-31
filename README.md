@@ -21,5 +21,5 @@ This project is just a passion 'experiment' with Source Engine and it's games. I
 ³[Claude's Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) for additional guide and setup adjusting and fixing my mistakes. :) 
 ⁴[FWGS](https://github.com/FWGS) for creating [Xash3D FWGS engine](https://github.com/FWGS/xash3d-fwgs) and inspiring me for making this project. :)
 
-THANK YOU VERY MUCH Y'ALL! ツ
+THANK YOU VERY MUCH Y'ALL! [ツ](https://en.wikipedia.org/wiki/Tsu_(kana))
 
