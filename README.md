@@ -10,6 +10,9 @@ About
 >[!WARNING]
 > The engine itself works but compatibility with games isn't tested. I'm going to test it all this weekend. For these few days, use it at your 'own risk'. The app (engine) is stable although it's labeled as 'debug'. 
 ----------------------------------------------
+> [!NOTE]
+> The engine supports: ¹Half-Life 2 (untested), ²Counter-Strike: Source (untested), ³Day of Defeat: Source (untested), ⁴Half-Life: Source (untested), ⁵Counter-Strike: Global Offensive (untested). nillerusr made launchers for those games. Half-Life 2 runs natively on the engine, for another games you would need a launcher. You can find the launchers [here] (https://drive.google.com/drive/folders/1ZSa4sp7IvBLs_Djs_uctLSn2jCRpYxZ_).
+----------------------------------------------
 🙏 Thank you very much!!
 --
 ¹nillerusr for creating Source Engine port for Android
