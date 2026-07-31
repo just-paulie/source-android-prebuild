@@ -4,7 +4,7 @@
 > Files contained in this repository are just barebone engine files. The .apk in releases aren't equiped with game files itself. I does not support piracy in any way, so you need to own official (Steam) files/games compatible with this engine. For further information visit this webpage: https://developer.valvesoftware.com/wiki/Source_on_Android. 
 ---------------------------------------------
 About
---
+
 >This project is just a passion 'experiment' with Source Engine and it's games. I heard about this project from Valve's website mentioned earlier, and I just wanted to try it! 
 ----------------------------------------------
 >[!WARNING]
@@ -15,10 +15,10 @@ About
 ----------------------------------------------
 🙏 Thank you very much!!
 --
-¹nillerusr for creating Source Engine port for Android
-²Valve for making guide - 'Source for Android' (https://developer.valvesoftware.com/wiki/Source_on_Android)
-³Claude's Sonnet 5 for additional guide and setup adjusting and fixing my mistakes. :) 
-⁴FWGS for creating Xash3D FWGS engine and inspiring me for making this project. :)
+¹[nillerusr](https://github.com/nillerusr) for creating [Source Engine port for Android](https://github.com/nillerusr/source-engine)
+²[Valve](https://www.valvesoftware.com) for making guide - ['Source for Android'](https://developer.valvesoftware.com/wiki/Source_on_Android)
+³[Claude's Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) for additional guide and setup adjusting and fixing my mistakes. :) 
+⁴[FWGS](https://github.com/FWGS) for creating [Xash3D FWGS engine](https://github.com/FWGS/xash3d-fwgs) and inspiring me for making this project. :)
 
 THANK YOU VERY MUCH Y'ALL! ツ
 
